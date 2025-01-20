@@ -32,7 +32,7 @@ const testimonials = [
     id: 3,
     name: 'Michael Chen',
     role: 'CEO',
-    image: '',
+    image: 'https://images.unsplash.com/photo-1544168190-79c17527004f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8eW91bmclMjBvZmZpY2UlMjBib3l8ZW58MHx8MHx8fDA%3D',
     quote:
       'Outstanding service and exceptional results. They transformed our vision into reality with remarkable precision and creativity.',
   },
