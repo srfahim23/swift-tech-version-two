@@ -17,6 +17,7 @@ export async function submitContactForm(formData: FormData) {
     console.log('Form submitted:', data)
 
     return { success: true, message: 'Message sent successfully!' }
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   } catch (error) {
     return { success: false, message: 'Failed to send message. Please try again.' }
   }
